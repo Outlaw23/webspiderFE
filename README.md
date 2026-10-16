@@ -1,6 +1,9 @@
+
 # 🕷️ WebSpider – Hado Translator 🕸️
 
 ---
+### note 
+I have separated my backend and frontend; here is the link to the backend: https://github.com/Outlaw23/WebTranslatorBE
 
 ### Brief explanation
 
@@ -15,9 +18,9 @@ Because I am still learning, this project helps me experiment with new concepts 
 
 ### Tech Stack
 
-| Java                                                                               | Spring Boot                                                                              | React                                                                                 | Maven                                                                                 | MariaDB                                                                                     | HTML                                                                                 | CSS                                                                               | JavaScript                                                                                           |
-|------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) | ![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) | ![Maven](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg) | ![MariaDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg) | ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) |
+| React                                                                                 | Vite                                                                                 | HTML                                                                                 | CSS                                                                               | JavaScript                                                                                           |
+|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) | ![Vite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg) | ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) | ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) |
 ---
 
 #### Home screen
@@ -39,7 +42,7 @@ the hadoR screen will translate any hado language back to which language it tran
 ![hador_screen.png](Img_README/hadoR_Screen.png)
 ### what I'm still working on
 
-- Small bugs
+- bugs
 - learn Screen
 
 ---
