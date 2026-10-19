@@ -1,7 +1,7 @@
 function Footer() {
     return (
         <footer className="footer">
-            <p>© HadoTranslater</p>
+            <p>© Spider_code</p>
         </footer>
     );
 }

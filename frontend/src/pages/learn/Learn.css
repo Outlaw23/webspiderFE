@@ -1,0 +1,47 @@
+.learn h2 {
+    font: bold 30px/1.5 "Avenir", Helvetica, Arial, sans-serif;
+}
+
+.learn .card-container-learn {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+
+.learn .card-learn {
+    font-size: 1.1em;
+    background: rgba(52, 62, 69, 0.85);
+    padding: 18px;
+    border-radius: 12px;
+    text-decoration: none;
+    color: white;
+    transition: transform 0.2s, background 0.2s;
+}
+
+.learn .card-learn:hover {
+    transform: translateY(-3px);
+    background: rgba(52, 62, 69, 0.95);
+    color: rgba(100, 108, 255);
+}
+
+
+@media (min-width: 600px) {
+    .learn .card-container-learn {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .learn h1 {
+        font-size: 36px;
+    }
+}
+
+@media (min-width: 900px) {
+    .learn h1 {
+        font-size: 50px;
+    }
+
+    .learn .card-learn {
+        font-size: 20px;
+        padding: 25px;
+    }
+}

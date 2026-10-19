@@ -25,6 +25,7 @@
 .card:hover {
     transform: translateY(-3px);
     background: rgba(52, 62, 69, 0.95);
+    color: rgba(100, 108, 255);
 }
 
 h1 {
