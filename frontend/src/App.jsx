@@ -6,6 +6,7 @@ import Hado from "./pages/hado/Hado";
 import HadoR from "./pages/hadoR/HadoR";
 import Learn from "./pages/learn/Learn";
 import Info from "./pages/info/Info";
+import Hado_quiz from "./pages/learn/learn-sub/hado-quiz/hado-quiz.jsx";
 
 function App() {
     return (
@@ -17,6 +18,7 @@ function App() {
                     <Route path="/hador" element={<HadoR />} />
                     <Route path="/learn" element={<Learn />} />
                     <Route path="/info" element={<Info />} />
+                    <Route path="/hadoQuiz" element={<Hado_quiz />} />
                     <Route path="*" element={<Home />} />
                 </Route>
             </Routes>

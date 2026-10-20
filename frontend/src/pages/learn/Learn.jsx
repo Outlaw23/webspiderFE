@@ -1,4 +1,5 @@
 import {Link} from "react-router-dom";
+
 import './Learn.css'
 
 function Learn() {
@@ -8,10 +9,10 @@ function Learn() {
             <h2>assignments</h2>
                 <div className="card-container-learn">
 
-                    <Link to="" className="card-learn">
+                    <Link to="/hadoQuiz" className="card-learn">
                         <h2>🕸 Hado quiz</h2>
                         <p>
-                            Test your Hado vocabulary with a fun multiple-choice quiz! Answer 10 questions, earn points,
+                            Test your Hado vocabulary with a fun multiple-choice quiz! Answer 20 questions, earn points,
                             and improve your language skills.
                         </p>
                     </Link>
